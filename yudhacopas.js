@@ -24,7 +24,7 @@ const starts = async (dha = new WAConnection()) => {
 		whitespaceBreak: false
 	}), 'cyan'))
 	console.log(color('[SOURCE CODE INI DIJAGA DAN DI LINDUNGI OLEH ARIL]\n\n', 'orange'), color('\n======TERIMKASIH BANYAK KEPADA======\n•MHANKBARBAR\n•NINO\n•IKYADS\n•YUDHA PERDANA\n•DAFFA PATNER SAYA\n•COPAS TEAM\n•PENYEDIA APIKEY\n•SELURUH CREATOR BOT\n•SELURUH SUBSCRIBERKU\n•SELURUH BUYER SCRIP INI', 'yellow'))
-	console.log(color('\n\nJANGAN DI JUAL ULANG BRO😑\nKALAU ADA YG MINTA SURUH CHAT ©KurrXd😅\nWA YUDHA 6281220670449😗', 'pink'))
+	console.log(color('\n\nJANGAN DI JUAL ULANG BRO😑\nKALAU ADA YG MINTA SURUH CHAT ©ARIL😅\nWA ARIL STORE 62881024358619😗', 'pink'))
 	dha.browserDescription = ["ARIL BOTZ", "Chrome", "3.0.0"];
 
 	// Menunggu QR
